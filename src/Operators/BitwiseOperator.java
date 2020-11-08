@@ -26,7 +26,7 @@ public class BitwiseOperator {
 		System.out.println(" >> operator use = "+ total);
 		
 		total = num1 <<2;
-		System.out.println("<< operator use = "+ total);
+		System.out.println("<<s operators use = "+ total);
 	}
 	
 }
